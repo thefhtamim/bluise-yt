@@ -1,10 +1,10 @@
 {
-  "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "title": "Entertainment",
+  "titleTemplate": "| the_fhtamim",
+  "welcomeText": "# Hi, I'm the_fhtamim\n\n<!--StartFragment-->\n\nI have specifically designed this website for sharing entertainment related News And Updates:)\n\n<!--EndFragment-->",
+  "logo": "https://www.fhtamim.me/favicon.ico",
+  "icon": "/images/uploads/copy-of-copy-of-copy-of-copy-of-copy-of-prod.-by-the_fhtamim.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
-  "seoMetaImage": ""
+  "seoDescription": "I have specifically designed this website for sharing entertainment-related News And Updates:)",
+  "seoMetaImage": "https://www.fhtamim.me/favicon.ico"
 }
